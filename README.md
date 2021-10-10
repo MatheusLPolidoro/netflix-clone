@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Link Deployment here: [NETFLIX-CLONE](https://vibrant-joliot-e1166d.netlify.app/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
