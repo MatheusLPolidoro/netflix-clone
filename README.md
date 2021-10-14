@@ -2,6 +2,8 @@
 
 Link Deployment here: [NETFLIX-CLONE](https://vibrant-joliot-e1166d.netlify.app/).
 
+Feito acompanhando a aula do Bonieky Lacerda:[ORIGINAL](https://www.youtube.com/watch?v=tBweoUiMsDg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
